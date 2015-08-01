@@ -33,6 +33,7 @@
     "jsonwebtoken": "latest",
     "lodash": "latest",
     "meanio": "latest",
+    "mean-admin": "linnovate/mean-admin",
     "mongoose": "latest",
     "morgan": "latest",
     "ms": "latest",
